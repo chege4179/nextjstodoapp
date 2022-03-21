@@ -26,5 +26,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - The app is built using Next.js. It utilizes next.js api routes to bring about CRUD functionality
 - The app is using mongo db for its database and is deployed on VERCEL
+- The app uses Tailwind CSS for the basic styling
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
